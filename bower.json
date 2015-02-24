@@ -1,0 +1,23 @@
+{
+  "name": "sniffy",
+  "version": "0.1.0",
+  "authors": [
+    "Clemente Gomez <dev@imkreative.com>"
+  ],
+  "description": "Attribute Replacer",
+  "main": "src/sniffy.js",
+  "keywords": [
+    "sniffy",
+    "replace",
+    "find"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.imkreative.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
